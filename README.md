@@ -2,4 +2,8 @@
 
 # Krish Naik Classes
 
-# krish first class
+## krish tutorials
+
+
+# krish sir first class
+# learning
